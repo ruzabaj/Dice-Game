@@ -1,0 +1,37 @@
+body{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color:  #4ECCA3;
+    background-color:#393E46;
+    
+}
+.header{
+       text-align: center;
+}
+h1{
+    font-size: 05pc;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+   
+}
+h2{
+    font-size: 2rem;
+    text-align: center;
+}
+.dice img
+{
+    width: 85%;
+    align-items: center;
+    
+}
+.footer{
+    width: 100%;
+    text-align: center;
+    margin-top: 5%;
+}
+.p{
+    margin-top: 6.5%;
+}
